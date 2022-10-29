@@ -1,0 +1,144 @@
+/************************** 
+* . General Style
+***************************/
+a:hover,
+a:focus,
+.fa:hover,
+.navbar-header .navbar-brand span,
+.navbar-inverse .navbar-nav li a:hover,
+.navbar-inverse .navbar-nav li a:focus,
+.portfolio .portfolio-list .nav li:hover {
+  color: #1d1d1d; }
+
+.form-control:focus,
+.navbar-inverse .navbar-collapse,
+.navbar-inverse .navbar-form {
+  border-color: #1d1d1d; }
+
+.btn:hover,
+.btn:focus {
+  background: #1d1d1d; }
+
+.section-title h2:before, .section-title h2:after {
+  content: "";
+  background: #1d1d1d; }
+
+.draw:hover:before {
+  border-top-color: #1d1d1d;
+  border-right-color: #1d1d1d; }
+.draw:hover:after {
+  border-bottom-color: #1d1d1d;
+  border-left-color: #1d1d1d; }
+
+.cd-overlay-content span {
+  background-color: #1d1d1d; }
+
+/************************** 
+* Navbar
+***************************/
+.nav-styletwo .navbar .navbar-collapse .navbar-nav .nav-item .nav-link.active {
+  color: #1d1d1d; }
+
+@media (max-width: 991px) {
+  .nav-styletwo .navbar .navbar-collapse .navbar-nav .nav-item .nav-link.active {
+    color: #1d1d1d; } }
+.dl-burger-menu {
+  background: #1d1d1d; }
+
+.dl-fixed-sidebar .dl-menu-fixed ul li:hover a {
+  color: #1d1d1d !important; }
+.dl-fixed-sidebar .dl-menu-fixed ul li a.active {
+  color: #1d1d1d !important; }
+.dl-fixed-sidebar .dl-menu-fixed ul li .active:after {
+  background: #1d1d1d; }
+.dl-fixed-sidebar .line:after {
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0)), color-stop(75%, #1d1d1d), to(#1d1d1d));
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0, #1d1d1d 75%, #1d1d1d); }
+
+/************************** 
+* Sidebar fix 
+***************************/
+.sidebar-contet .contentsidebar .themecolor .list-sidebar li span.active {
+  border: 1px solid #1d1d1d !important; }
+
+/************************** 
+* About Us
+***************************/
+.about .about-blok .aboutinfo .about-img:after {
+  background-color: #1d1d1d !important; }
+.about .skills-bar-container li .bar-container .progressbar {
+  background-color: #1d1d1d; }
+
+/************************** 
+* . Services
+***************************/
+.services .cont-services .servfix:hover .read-more {
+  color: #1d1d1d !important; }
+  .services .cont-services .servfix:hover .read-more i {
+    color: #1d1d1d !important; }
+
+/************************** 
+* Team
+***************************/
+.team .teamiteam .imgteam .socials-media ul li:hover {
+  background: #1d1d1d; }
+
+/************************** 
+* Contact
+***************************/
+.contact {
+  height: auto;
+  width: 100%; }
+  .contact .contact-block1 .contact-block .fa {
+    color: #1d1d1d; }
+    #contact .socials-media ul li:hover {
+    background: #1d1d1d; }
+
+::-webkit-scrollbar-thumb {
+  background: #1d1d1d; }
+
+::-webkit-scrollbar-thumb:hover {
+  background: #1d1d1d; }
+
+::-webkit-selection {
+  background: #1d1d1d; }
+
+::-moz-selection {
+  background: #1d1d1d; }
+
+::selection {
+  background: #1d1d1d; }
+
+.counter .fullcounter h3 sup {
+  color: #1d1d1d; }
+
+.error {
+  color: #1d1d1d; }
+
+.overlay-2 {
+  background: #1d1d1d; }
+
+.mainicon.sidebaricon {
+  background: #1d1d1d;
+  border: 1px solid #1d1d1d; }
+.mainicon.btn-purchase {
+  border: 1px solid rgba(255, 255, 255, 0.1); }
+
+/************************** 
+* Option themes
+***************************/
+.sidebar-contet .contentsidebar .themecolor .list-sidebar li a.active {
+  border: 1px solid #1d1d1d; }
+
+/************************** 
+* Footer
+***************************/
+#footer .line:before {
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0)), color-stop(75%, #1d1d1d), to(#1d1d1d));
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0, #1d1d1d 75%, #1d1d1d); }
+
+/************************** 
+* Color Error
+***************************/
+.error {
+  color: #1d1d1d !important; }
