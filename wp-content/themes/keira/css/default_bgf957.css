@@ -43,7 +43,7 @@
 * General Style
 ***************************/
 body {
-  background-color: #292929;
+  background-color: #020202;
 }
 
 .fixblok {
@@ -92,7 +92,7 @@ body {
 }
 
 #header:before {
-  background: #292929;
+  background: #020202;
 }
 
 #header .head-info .header-content span {
@@ -135,7 +135,7 @@ body {
 
 .navbar-wrapper .mainmenunav .cd-primary-nav {
   background-image: url(../images/bg-paterns.png);
-  background-color: #292929;
+  background-color: #020202;
 }
 
 .nav-styletwo.scrolled {
@@ -147,7 +147,7 @@ body {
 }
 
 .dl-side-content .logo {
-  background-color: #292929;
+  background-color: #020202;
 }
 
 /************************** 
@@ -248,7 +248,7 @@ body {
 ***************************/
 .counter .fullcounter {
   border: 25px solid #1d1e20;
-  background-color: #292929;
+  background-color: #020202;
 }
 
 .counter .fullcounter h3 span {
@@ -263,7 +263,7 @@ body {
 * Portfolio
 ***************************/
 .portfolio .portfolio-item {
-  background: #292929;
+  background: #020202;
 }
 
 .portfolio .portfolio-item .portfolio-thumbnail .overlay {
@@ -371,7 +371,7 @@ body {
 ***************************/
 .infcontactfull {
   border: 1px solid rgba(255, 255, 255, 0.1);
-  background-color: #292929;
+  background-color: #020202;
 }
 
 .contact .contact-block span {
@@ -379,7 +379,7 @@ body {
 }
 
 .contact .contact-form .form-inline .form-group {
-  background-color: #292929;
+  background-color: #020202;
 }
 
 .contact .contact-form .form-inline .btn i {

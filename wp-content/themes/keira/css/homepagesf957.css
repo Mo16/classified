@@ -78,6 +78,154 @@ html,body{
   src: url(../../../../fonts/Breymont-Light.ttf);
 }
 
+::-webkit-scrollbar-thumb {
+  background: ;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: ;
+}
+
+::-webkit-selection {
+  background: ;
+}
+
+::-moz-selection {
+  background: ;
+}
+
+::selection {
+  background: ;
+}
+
+a:hover,
+a:focus,
+.fa:hover,
+.navbar-header .navbar-brand span,
+.navbar-inverse .navbar-nav li a:hover,
+.navbar-inverse .navbar-nav li a:focus,
+.portfolio .portfolio-list .nav li:hover,
+.nav-styletwo .navbar .navbar-collapse .navbar-nav .nav-item .nav-link.active,
+.contact .contact-block1 .contact-block .fa,
+.counter .fullcounter h3 sup,
+.error,
+.navbar-wrapper .mainmenunav .navbar .navbar-collapse li a:hover~p,
+.navbar-wrapper .mainmenunav .navbar .navbar-collapse li a:hover,
+.navbar-wrapper .mainmenunav .navbar .navbar-collapse li.menu-item-has-children>a:hover:after,
+.services .cont-services .servfix:hover .read-more,
+.services .cont-services .servfix:hover .read-more i,
+.journal .journal-info .journal-txt .maintitle:hover,
+.breadcrumb-header ul li a,
+.sidebar .widget.widget_search .search-submit,
+.sidebar .widget.widget_search .search-submit i:hover,
+.sidebar .widget.widget_categories ul li,
+.sidebar .widget.widget_categories ul li a:hover,
+.sidebar .widget.widget_recent_entries_thumbnail ul .thumbnail-post-w .widget-data h4 a:hover,
+.sidebar .widget.widget_recent_entries_thumbnail ul .thumbnail-post-w .widget-data .thumbnail-post-w-date a:hover,
+.search-widget .search-submit,
+.journal.blog .journal-item .post-date,
+.journal.blog.single .comments .comments-list .reply .comment-reply-link,
+.journal.blog.single .comments .comment-respond .comment-reply-title #cancel-comment-reply-link,
+.error-404 .page-content .back a {
+  color: ;
+}
+
+.dl-fixed-sidebar .dl-menu-fixed ul li:hover a,
+.dl-fixed-sidebar .dl-menu-fixed ul li a.active,
+.services .cont-services .servfix:hover .read-more,
+.services .cont-services .servfix:hover .read-more i,
+.error {
+  color:  !important;
+}
+
+@media (max-width: 991px) {
+
+  .nav-styletwo .navbar .navbar-collapse .navbar-nav .nav-item .nav-link.active,
+  .nav-styletwo .navbar .navbar-collapse .navbar-nav .nav-item a.active,
+  .nav-styletwo .navbar .navbar-collapse .navbar-nav .menu-item a:hover {
+    color:  !important;
+  }
+}
+
+.about .about-blok .aboutinfo .about-img:after,
+.btn:hover,
+.btn:focus,
+.section-title h2:before,
+.section-title h2:after,
+.cd-overlay-content span,
+.nav-styletwo .navbar .menu-toggle .bar,
+.dl-burger-menu,
+.dl-fixed-sidebar .dl-menu-fixed ul li .active:after,
+.about .skills-bar-container li .bar-container .progressbar,
+.team .teamiteam .imgteam .socials-media ul li:hover,
+#contact .socials-media ul li:hover,
+.overlay-2,
+.mainicon.sidebaricon,
+.nav-styletwo .menu-toggle .bar,
+.list-color li span[data-color="default"],
+.about:before,
+.services:before,
+.portfolio:before,
+.resume:before,
+.team:before,
+.journal:before,
+.contact:before,
+.about .about-blok .aboutinfo .about-img:after,
+.res-line,
+.pagination-numbers .page-numbers.current,
+.pagination-numbers .page-numbers:hover,
+.sidebar .widget.widget_tag_cloud .tagcloud a:hover,
+.journal.blog.single .journal-item .post-footer .post-tags a:hover,
+.journal.blog.single .post-navigation .post-navigation-prev a:hover,
+.journal.blog.single .post-navigation .post-navigation-next a:hover {
+  background: ;
+}
+
+.about .about-blok .aboutinfo .about-img:after {
+  background:  !important;
+}
+
+.dl-fixed-sidebar .line:after,
+#footer .line:before {
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0)), color-stop(75%, ), to()) !important;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0, 75%, ) !important;
+}
+
+.form-control:focus,
+.navbar-inverse .navbar-collapse,
+.navbar-inverse .navbar-form,
+.sidebar-contet .contentsidebar .themecolor .list-sidebar li span.active,
+.mainicon.sidebaricon,
+.sidebar-contet .contentsidebar .themecolor .list-sidebar li a.active,
+.sidebar .widget.widget_search .search-field:focus,
+.search-widget .search-field:focus,
+.journal.blog.single .comments .comment-respond .comment-form input[type=text]:focus,
+.journal.blog.single .comments .comment-respond .comment-form textarea:focus {
+  border-color:  !important;
+}
+
+.draw:hover:before {
+  border-top-color:  !important;
+  border-right-color:  !important;
+}
+
+.draw:hover:after {
+  border-bottom-color:  !important;
+  border-left-color:  !important;
+}
+
+body.home {
+  overflow: hidden;
+}
+
+.content {
+  transform: translate(0, -54%);
+}
+
+.navbar-wrapper .navfixed .container .fullcontainer .row .col-md-12 .mylogo img {
+  width: 40px;
+}
+
 
 .transition,
 .btn,
@@ -577,7 +725,7 @@ select:-webkit-autofill,
 select:-webkit-autofill:hover,
 select:-webkit-autofill:focus {
   -webkit-text-fill-color: #9da1a5;
-  box-shadow: 0 0 0px 1000px #292929 inset;
+  box-shadow: 0 0 0px 1000px #020202 inset;
   transition: background-color 5000s ease-in-out 0s;
 }
 
@@ -659,8 +807,8 @@ div#mc_embed_signup div#mc_embed_signup_scroll .mc-field-group .mce_inline_error
 
 .draw .fa {
   color: #9da1a5;
-  padding-left: 5px;
-  font-size: inherit;
+  margin: auto;
+  font-size: 40px;
 }
 
 .draw:hover {
@@ -690,6 +838,7 @@ div#mc_embed_signup div#mc_embed_signup_scroll .mc-field-group .mce_inline_error
 .section-title {
   margin-bottom: 70px;
   text-align: left !important;
+  font-family: "Breymont-Bold";
 }
 
 .section-title h2 {
@@ -1163,7 +1312,7 @@ div#mc_embed_signup div#mc_embed_signup_scroll .mc-field-group .mce_inline_error
 }
 
 .cd-overlay-nav span {
-  background-color: #292929;
+  background-color: #020202;
 }
 
 .cd-overlay-content {
@@ -1319,7 +1468,7 @@ div#mc_embed_signup div#mc_embed_signup_scroll .mc-field-group .mce_inline_error
     top: 55px;
     left: 0;
     width: 100%;
-    background: #292929;
+    background: #020202;
     max-height: 340px;
     overflow-x: hidden;
     text-align: center;
@@ -1402,7 +1551,7 @@ div#mc_embed_signup div#mc_embed_signup_scroll .mc-field-group .mce_inline_error
 
 .navbar .sub-menu.show {
   border-radius: 4px;
-  background: #292929;
+  background: #020202;
   min-width: 240px;
   padding: 20px 0px;
 }
@@ -1472,7 +1621,7 @@ div#mc_embed_signup div#mc_embed_signup_scroll .mc-field-group .mce_inline_error
   visibility: hidden;
   border: 0;
   border-radius: 4px;
-  background: #292929;
+  background: #020202;
   min-width: 240px;
   padding: 20px 0px;
   -webkit-transform: translateY(20px);
@@ -1547,7 +1696,7 @@ div#mc_embed_signup div#mc_embed_signup_scroll .mc-field-group .mce_inline_error
 }
 
 .light .nav-styletwo .menu-toggle .bar {
-  background-color: #292929;
+  background-color: #020202;
 }
 
 /************************** 
@@ -2330,7 +2479,7 @@ select:-webkit-autofill:focus {
 }
 
 .overlay-1 {
-  background: #292929;
+  background: #020202;
   background-image: url(../images/line-maker.svg);
   background-repeat: repeat;
   background-position: center center;
@@ -4698,7 +4847,7 @@ body.full-container .container {
 * Portfolio
 ***************************/
 .portfolio {
-  background-color: #292929;
+  background-color: #020202;
   overflow: hidden;
 }
 
@@ -4848,7 +4997,7 @@ body.full-container .container {
 * Brand Logo
 ***************************/
 .brand-logo-area {
-  background-color: #292929;
+  background-color: #020202;
   border-top: 1px solid rgba(238, 238, 238, 0.05);
   border-bottom: 1px solid rgba(238, 238, 238, 0.05);
   overflow: hidden;
