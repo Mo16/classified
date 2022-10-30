@@ -4830,6 +4830,7 @@ body.full-container .container {
 .header-minimal {
   min-height: 50vh;
   padding: 220px 0 130px;
+  font-family: "Breymont-Bold";
 }
 
 .header-minimal .cnt-header h1 {
