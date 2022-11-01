@@ -2368,7 +2368,7 @@ textarea {
 }
 
 .maintitle {
-  text-transform: capitalize;
+
   font-size: 20px;
   font-weight: 600;
   margin-bottom: 20px;
@@ -3475,9 +3475,9 @@ span#typed-slide-1 {
 }
 
 .contact .contact-block .fa {
-  font-size: 30px;
+  font-size: 15px;
   margin-bottom: 20px;
-  padding: 10px;
+
 }
 
 .contact .contact-block span {
